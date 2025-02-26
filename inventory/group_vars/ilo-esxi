@@ -1,0 +1,3 @@
+###### Grupo  de variáveis para acesso a Dell IDRAC ########
+idrac_user: root
+idrac_password: calvin

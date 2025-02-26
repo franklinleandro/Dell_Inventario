@@ -1,0 +1,6 @@
+---
+hosts:
+  - hostName: tpsp1esx3n00100.tpsp1infra.local
+    idrac_ip: 10.107.96.10
+    idrac_user: root
+	idrac_password: calvin
